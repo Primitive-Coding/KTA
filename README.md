@@ -73,4 +73,5 @@ README.md: This file.
 MIT License
 
 Author: William Kruta
-Github Primitive-Coding
+
+Github: Primitive-Coding
